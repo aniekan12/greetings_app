@@ -21,7 +21,7 @@
         tools:layout_editor_absoluteX="72dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/enterButton"
         android:layout_width="348dp"
         android:layout_height="55dp"
         android:layout_marginLeft="30dp"
